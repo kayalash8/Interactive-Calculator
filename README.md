@@ -3,8 +3,7 @@
 Functions: 
 	adding (+), substracting (-), multiplying (*), dividing (/), squareroot ($), power (^)
 
-How to use: 
-	When you run the program it will ask you to input your expression separated by 
+How to use: When you run the program it will ask you to input your expression separated by 
 	first number, operation, and second number if needed.
 	
  	If you would like to square root use "$" character for the operation.
